@@ -1,6 +1,5 @@
 for(let i = 0;i<10;i++){
     console.log("hello");
     console.log("hello again!");
-    dada
-    dadadad
+    console.log('nigger balls n dat')
 }
