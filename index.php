@@ -8,7 +8,8 @@ $dbname = "database";
 $conn = new mysqli($servername, $username, $password, $dbname);
 $sqlinfo = "INSERT INTO users (`ID`, `Username`, `Password`, `Country`) VALUES ('','knosk1337','amazed','Sweden')";
 $conn->query($sqlinfo);
-echo 'test';
+echo 'test2';
+echo'again';
 $conn->query($sqlinfo);
 // Check connection
 if($conn){
